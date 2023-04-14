@@ -1,6 +1,6 @@
 [package]
 name = "typestates"
-version = "0.2.0"
+version = "0.3.0"
 authors = ["Federico Stra <stra.federico@gmail.com>"]
 description = "Comparison of different implementations of typestates"
 license = "MIT" # https://spdx.org/licenses/
