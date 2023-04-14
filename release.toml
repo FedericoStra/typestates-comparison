@@ -1,5 +1,7 @@
 sign-commit = true
 sign-tag = true
+publish = false
+push = false
 
 [[pre-release-replacements]]
 file = "CHANGELOG.md"
