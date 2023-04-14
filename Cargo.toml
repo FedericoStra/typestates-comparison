@@ -1,10 +1,10 @@
 [package]
-name = "typestates"
+name = "typestates-comparison"
 version = "0.4.0"
 authors = ["Federico Stra <stra.federico@gmail.com>"]
 description = "Comparison of different implementations of typestates"
 license = "MIT" # https://spdx.org/licenses/
-repository = "https://github.com/FedericoStra/typestates"
+repository = "https://github.com/FedericoStra/typestates-comparison"
 categories = [] # https://crates.io/category_slugs
 keywords = ["typestate"]
 edition = "2021"
