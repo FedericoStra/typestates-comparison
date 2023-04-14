@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 ## [Unreleased]
 
 ## [0.5.1] - 2023-04-14
+### Fixed
+- Allow the clippy `clippy::approx_constant` lint in tests.
 
 ## [0.5.0] - 2023-04-14
 ### Changed
