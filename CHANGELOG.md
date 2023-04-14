@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 <!-- next-header -->
 ## [Unreleased]
+### Added
+- Implementation with the help of the [`typestate`](https://crates.io/crates/typestate) crate.
 
 ## [0.3.1] - 2023-04-14
 ### Added
