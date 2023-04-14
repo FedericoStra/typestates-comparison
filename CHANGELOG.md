@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 <!-- next-header -->
 ## [Unreleased]
+### Changed
+- Renamed the project from `typestates` to `typestates-comparison`.
 
 ## [0.4.0] - 2023-04-14
 ### Added
