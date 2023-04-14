@@ -7,8 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 <!-- next-header -->
 ## [Unreleased]
-
-## [0.1.0]
+### Added
+- Implementation with individual types.
 
 <!-- next-url -->
 [Unreleased]: https://github.com/FedericoStra/typestates/compare/v0.1.0...HEAD
