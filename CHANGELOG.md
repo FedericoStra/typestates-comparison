@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 <!-- next-header -->
 ## [Unreleased]
+### Added
+- Examples in the documentation.
+
 ### Fixed
 - Description of module `phantom_types`.
 

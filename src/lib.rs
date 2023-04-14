@@ -15,6 +15,36 @@ In this library we compare the three approaches by implementing the following sy
 
 # Examples
 
+## Individual types
+
+```
+use typestates::individual_types::*;
+let e = Initial::new(42);
+let e = e.add_a(3.14);
+let e = e.add_c('a');
+assert_eq!(e.format(), format!("id:42 a:3.14 c:a"));
+```
+
+## Generic type with phantom types
+
+```
+use typestates::phantom_types::*;
+let e = Entity::new(42);
+let e = e.add_a(3.14);
+let e = e.add_c('a');
+assert_eq!(e.format(), format!("id:42 a:3.14 c:a"));
+```
+
+## Generic type with phantom types
+
+```
+use typestates::real_types::*;
+let e = Entity::new(42);
+let e = e.add_a(3.14);
+let e = e.add_c('a');
+assert_eq!(e.format(), format!("id:42 a:3.14 c:a"));
+```
+
 */
 
 #![cfg_attr(docsrs, feature(doc_auto_cfg))]
