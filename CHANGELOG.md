@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 ## [0.5.0] - 2023-04-14
 ### Changed
-- Renamed the project from `typestates` to `typestates-comparison`.
+- ⚠️ Renamed the project from `typestates` to `typestates-comparison`.
 
 ## [0.4.0] - 2023-04-14
 ### Added
