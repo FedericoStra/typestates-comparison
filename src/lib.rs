@@ -20,4 +20,5 @@ In this library we compare the three approaches by implementing the following sy
 #![cfg_attr(docsrs, feature(doc_auto_cfg))]
 
 pub mod individual_types;
+pub mod phantom_types;
 pub mod real_types;

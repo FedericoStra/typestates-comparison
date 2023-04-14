@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 <!-- next-header -->
 ## [Unreleased]
+- Implementation with generic type and phantom types.
 
 ## [0.2.0] - 2023-04-14
 ### Added
