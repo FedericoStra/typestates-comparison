@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 <!-- next-header -->
 ## [Unreleased]
+### Added
+- Implementation with generic type and real types.
 
 ## [0.1.0] - 2023-04-14
 ### Added
