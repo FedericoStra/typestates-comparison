@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 <!-- next-header -->
 ## [Unreleased]
+### Fixed
+- Description of module `phantom_types`.
 
 ## [0.3.0] - 2023-04-14
 - Implementation with generic type and phantom types.

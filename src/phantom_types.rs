@@ -1,4 +1,4 @@
-//! Every state is implemented as a type parameter of a generic type.
+//! Every state is implemented as a phantom type of a generic type.
 
 /// An entity in a specific state.
 pub struct Entity<State> {
