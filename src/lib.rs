@@ -35,7 +35,7 @@ let e = e.add_c('a');
 assert_eq!(e.format(), format!("id:42 a:3.14 c:a"));
 ```
 
-## Generic type with phantom types
+## Generic type with real types
 
 ```
 use typestates::real_types::*;
